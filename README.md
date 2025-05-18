@@ -3,6 +3,8 @@
 ## Overview
 
 This project creates a simple CI/CD pipeline using Jenkins, Ansible, and Apache Tomcat on three AWS EC2 instances.
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/52e052f7-0b06-4e93-aac4-b2112f2b7e31" />
+
 
 ## Architecture
 
